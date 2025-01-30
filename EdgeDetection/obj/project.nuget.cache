@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b0GQOuVTf5E=",
+  "dgSpecHash": "76x6qgViP6U=",
   "success": true,
-  "projectFilePath": "D:\\EdgeDetection\\EdgeDetection\\EdgeDetection.csproj",
+  "projectFilePath": "D:\\EdgeDetection\\edgedetection\\EdgeDetection.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\teymi\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.1\\microsoft.win32.systemevents.9.0.1.nupkg.sha512",
     "C:\\Users\\teymi\\.nuget\\packages\\system.drawing.common\\9.0.1\\system.drawing.common.9.0.1.nupkg.sha512"
