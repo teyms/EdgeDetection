@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\EdgeDetection\\EdgeDetection\\EdgeDetection.csproj": {}
+    "D:\\EdgeDetection\\edgedetection\\EdgeDetection.csproj": {}
   },
   "projects": {
-    "D:\\EdgeDetection\\EdgeDetection\\EdgeDetection.csproj": {
+    "D:\\EdgeDetection\\edgedetection\\EdgeDetection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\EdgeDetection\\EdgeDetection\\EdgeDetection.csproj",
+        "projectUniqueName": "D:\\EdgeDetection\\edgedetection\\EdgeDetection.csproj",
         "projectName": "EdgeDetection",
-        "projectPath": "D:\\EdgeDetection\\EdgeDetection\\EdgeDetection.csproj",
+        "projectPath": "D:\\EdgeDetection\\edgedetection\\EdgeDetection.csproj",
         "packagesPath": "C:\\Users\\teymi\\.nuget\\packages\\",
-        "outputPath": "D:\\EdgeDetection\\EdgeDetection\\obj\\",
+        "outputPath": "D:\\EdgeDetection\\edgedetection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\teymi\\AppData\\Roaming\\NuGet\\NuGet.Config"

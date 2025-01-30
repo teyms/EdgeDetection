@@ -18,3 +18,4 @@ D:\EdgeDetection\EdgeDetection\bin\Debug\net8.0\System.Private.Windows.Core.dll
 D:\EdgeDetection\EdgeDetection\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
 D:\EdgeDetection\EdgeDetection\obj\Debug\net8.0\EdgeDetection.csproj.AssemblyReference.cache
 D:\EdgeDetection\EdgeDetection\obj\Debug\net8.0\EdgeDete.72B63DDF.Up2Date
+D:\EdgeDetection\EdgeDetection\obj\Debug\net8.0\EdgeDetection.sourcelink.json
